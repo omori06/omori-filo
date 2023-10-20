@@ -1,0 +1,2 @@
+# omori-filo
+apenas filosofia 
